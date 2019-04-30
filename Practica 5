@@ -1,0 +1,15 @@
+run:
+Para calcular su valor final de matrícula se debeconsiderar ciertas pautas, responda las siguientes preguntas:
+
+Si usted nació en Loja o Zamora presione 1 sino presione 0
+1
+Por favor ingrese su edad:
+17
+Si usted está casad@ presione 1 sino presione 0
+1
+Si usted tiene 1 o más hijos presione 1 sino presione 0
+1
+El costo inicial de la matrícula es: 1330,00
+El total descontado es: 505,40
+El valor aumentado por trámites administrativos es: 26,60
+El costo final a pagar es: 851,20BUILD SUCCESSFUL (total time: 6 seconds)
